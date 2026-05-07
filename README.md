@@ -1,6 +1,7 @@
 # system-anomaly-detection
 The methods are designed for:  system log analysis; anomaly and failure detection; template frequency monitoring; comparative experiments with classical approaches.
-Цей репозиторій містить програмну реалізацію методу виявлення відхилень у роботі систем 
+
+Automated anomaly detection in system logs using template mining and sequence analysis on the BGL dataset
 
 ## Основні компоненти:
 - **Типізація (Template Mining)**: Автоматичне вилучення шаблонів із неструктурованих повідомлень (`template_miner.py`).
